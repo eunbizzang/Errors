@@ -1,0 +1,4 @@
+Error : ArrayIndexOutOfBoundsException
+
+Solution : 
+checked for statement's index (which should start from 0)
