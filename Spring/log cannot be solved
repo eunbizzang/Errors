@@ -1,0 +1,9 @@
+log cannot be solved
+
+
+log4j 의 log 인식이 안될 때
+1. <!-- <scope>runtime</scope> -->
+    runtime 전부 주석 처리
+
+등등했으나....
+나는 @log4j 를 해주지 않은게 원인이었다....!!!!
